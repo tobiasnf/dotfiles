@@ -1,0 +1,20 @@
+[tools]
+node = "latest"
+npm = "latest"
+python = "latest"
+
+[dotfiles]
+"~/.config/dunst" = {}
+"~/.config/foot" = {}
+"~/.config/mise" = {}
+"~/.config/nvim" = {}
+"~/.config/sway" = {}
+"~/.config/waybar" = {}
+"~/.dotfiles/.config/dunst" = { mode = "track" }
+"~/.dotfiles/.config/foot" = { mode = "track" }
+"~/.dotfiles/.config/mise" = { mode = "track" }
+"~/.dotfiles/.config/nvim" = { mode = "track" }
+"~/.dotfiles/.config/sway" = { mode = "track" }
+"~/.dotfiles/.config/waybar" = { mode = "track" }
+"~/.dotfiles/.tmux.conf" = { mode = "track" }
+"~/.tmux.conf" = {}
