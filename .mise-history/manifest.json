@@ -1,6 +1,13 @@
 {
   "format": 1,
-  "enrollment": [],
+  "enrollment": [
+    {
+      "path": "home/.tmux.conf",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    }
+  ],
   "exclude": [],
   "recipients": [],
   "permissions": {}
