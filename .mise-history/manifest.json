@@ -20,6 +20,12 @@
       "variants": []
     },
     {
+      "path": "home/.dotfiles/.config/sway",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.dotfiles/.tmux.conf",
       "autosave": true,
       "encrypt": false,
