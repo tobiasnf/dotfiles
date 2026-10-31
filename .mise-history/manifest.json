@@ -2,6 +2,12 @@
   "format": 1,
   "enrollment": [
     {
+      "path": "home/.config/dunst",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.dotfiles/.config/nvim",
       "autosave": true,
       "encrypt": false,
@@ -10,5 +16,7 @@
   ],
   "exclude": [],
   "recipients": [],
-  "permissions": {}
+  "permissions": {
+    "home/.config": 448
+  }
 }
