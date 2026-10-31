@@ -1,6 +1,13 @@
 {
   "format": 1,
-  "enrollment": [],
+  "enrollment": [
+    {
+      "path": "home/.dotfiles/.config/nvim",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    }
+  ],
   "exclude": [],
   "recipients": [],
   "permissions": {}
