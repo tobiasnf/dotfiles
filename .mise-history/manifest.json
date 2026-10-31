@@ -1,28 +1,7 @@
 {
   "format": 1,
-  "enrollment": [
-    {
-      "path": "home/.config/dunst",
-      "autosave": true,
-      "encrypt": false,
-      "variants": []
-    },
-    {
-      "path": "home/.config/nvim",
-      "autosave": true,
-      "encrypt": false,
-      "variants": []
-    },
-    {
-      "path": "home/.tmux.conf",
-      "autosave": true,
-      "encrypt": false,
-      "variants": []
-    }
-  ],
+  "enrollment": [],
   "exclude": [],
   "recipients": [],
-  "permissions": {
-    "home/.config": 448
-  }
+  "permissions": {}
 }
