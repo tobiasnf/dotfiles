@@ -12,6 +12,12 @@
       "autosave": true,
       "encrypt": false,
       "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.tmux.conf",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
     }
   ],
   "exclude": [],
