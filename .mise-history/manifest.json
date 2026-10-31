@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "enrollment": [
+    {
+      "path": "home/.tmux.conf",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    }
+  ],
+  "exclude": [
+    ".config/mako"
+  ],
+  "recipients": [],
+  "permissions": {}
+}
