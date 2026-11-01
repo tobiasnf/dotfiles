@@ -6,6 +6,7 @@ python = "latest"
 [dotfiles]
 "~/.config/dunst" = {}
 "~/.config/foot" = {}
+"~/.config/gammastep" = {}
 "~/.config/mise" = {}
 "~/.config/nvim" = {}
 "~/.config/sway" = {}
