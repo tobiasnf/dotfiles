@@ -1,6 +1,0 @@
--- vim.pack.add({
--- 	gh("kevinhwang91/promise-async"),
--- 	gh("kevinhwang91/nvim-ufo"),
--- })
---
--- require("ufo").setup()
