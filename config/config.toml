@@ -4,6 +4,7 @@ npm = "latest"
 python = "latest"
 
 [dotfiles]
+"~/.config/bash" = {}
 "~/.config/dunst" = {}
 "~/.config/foot" = {}
 "~/.config/gammastep" = {}
