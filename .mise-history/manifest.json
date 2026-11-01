@@ -1,6 +1,49 @@
 {
   "format": 1,
-  "enrollment": [],
+  "enrollment": [
+    {
+      "path": "home/.dotfiles/.config/dunst",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.config/foot",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.config/gammastep",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.config/nvim",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.config/sway",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.config/waybar",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
+      "path": "home/.dotfiles/.tmux.conf",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    }
+  ],
   "exclude": [],
   "recipients": [],
   "permissions": {}
