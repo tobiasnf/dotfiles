@@ -1,5 +1,7 @@
 set -o vi
 
+bind -m vi-command -x '"-": nvim +Oil'
+
 PS1="[\[\e[0;32m\]\u\[\e[0m\]@\[\e[0;36m\]\h\[\e[0m\] \W]\$ "
 
 alias ls='ls --color=auto'

@@ -1,3 +1,6 @@
+[bootstrap.services.mise-history]
+builtin = "history-watch"
+
 [tools]
 node = "latest"
 npm = "latest"
