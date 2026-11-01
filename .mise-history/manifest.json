@@ -8,6 +8,12 @@
       "variants": []
     },
     {
+      "path": "home/.dotfiles/.config/bash",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.dotfiles/.config/dunst",
       "autosave": true,
       "encrypt": false,

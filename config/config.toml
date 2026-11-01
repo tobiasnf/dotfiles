@@ -12,6 +12,7 @@ python = "latest"
 "~/.config/nvim" = {}
 "~/.config/sway" = {}
 "~/.config/waybar" = {}
+"~/.dotfiles/.config/bash" = { mode = "track" }
 "~/.dotfiles/.config/dunst" = { mode = "track" }
 "~/.dotfiles/.config/foot" = { mode = "track" }
 "~/.dotfiles/.config/gammastep" = { mode = "track" }
