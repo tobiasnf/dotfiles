@@ -20,6 +20,12 @@
       "variants": []
     },
     {
+      "path": "home/.dotfiles/.config/gammastep",
+      "autosave": true,
+      "encrypt": false,
+      "variants": []
+    },
+    {
       "path": "home/.dotfiles/.config/nvim",
       "autosave": true,
       "encrypt": false,

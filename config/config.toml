@@ -13,6 +13,7 @@ python = "latest"
 "~/.config/waybar" = {}
 "~/.dotfiles/.config/dunst" = { mode = "track" }
 "~/.dotfiles/.config/foot" = { mode = "track" }
+"~/.dotfiles/.config/gammastep" = { mode = "track" }
 "~/.dotfiles/.config/mise" = { mode = "track" }
 "~/.dotfiles/.config/nvim" = { mode = "track" }
 "~/.dotfiles/.config/sway" = { mode = "track" }
